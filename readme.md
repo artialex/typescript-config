@@ -2,16 +2,8 @@
 
 My TypeScript configuration
 
-1. Install
+## Usage
 
-```bash
-npx install-peerdeps @alextheartisan/ts-config
-```
+Use as [`mrm` task](https://github.com/alextheartisan/tasks)
 
-2. Extend `tsconfig.json`
-
-```json
-{
-  "extends": "@alextheartisan/ts-config"
-}
-```
+    mrm typescript

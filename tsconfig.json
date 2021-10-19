@@ -11,11 +11,6 @@
     "emitDecoratorMetadata": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "skipLibCheck": true,
-    "paths": {
-      "@/*": [
-        "src/modules/*"
-      ]
-    }
+    "skipLibCheck": true
   },
 }
