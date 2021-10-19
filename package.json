@@ -1,0 +1,15 @@
+{
+  "name": "@alextheartisan/ts-config",
+  "version": "0.0.11",
+  "description": "My TypeScript configuration",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "peerDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
